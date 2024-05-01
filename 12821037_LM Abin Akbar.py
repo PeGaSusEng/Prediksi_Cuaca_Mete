@@ -1,6 +1,5 @@
 #Nama : LM Abin Akbar
-#NIM  : 12821037
-# Tugas Time-Lag Esembles
+#  Time-Lag Esembles Wilayah Indonesia
 
 import warnings
 warnings.simplefilter('ignore') #ignores simple warning
